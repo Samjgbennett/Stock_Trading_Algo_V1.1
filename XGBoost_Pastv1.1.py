@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 from alpha_vantage.timeseries import TimeSeries
 
 
-api_key = 'NSKWKHGWPDNZDDYW'
+api_key = ''
 symbol = 'MSFT'
 
 ts = TimeSeries(api_key, output_format='pandas')
