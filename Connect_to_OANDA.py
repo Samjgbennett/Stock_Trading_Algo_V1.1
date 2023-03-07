@@ -180,8 +180,8 @@ def signal_generator(data):
 
 
 
-accountID = '101-004-24740816-001'
-access_token='34661485a16efdcf6d9e6c183a976c75-1fb5eaaa85eb830ec05dcd1022434ab5'
+accountID = ''
+access_token=''
 
 
 def get_candles(n):
